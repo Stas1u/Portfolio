@@ -1,0 +1,3 @@
+## Water Tracker
+
+Śledzi ilość spożywanej wody każdego dnia, sprawdzając czy udało się spełnić wyznaczony cel (domyślnie 2.5l). Opiera się na dodawaniu wypitych napoji na zasadize wybieranie spośród listy, dodaje do ogólnie wypitych danego dnia i porównuje z innymi dniami. Wszystkie dane są zapisywane lokalnie na urządzeniu. W dalszych planach jest dodanie edycji napoji z obrazkami, analiza danyc i wyświetlanie statystyk, streak, customowe powiadomienia.
