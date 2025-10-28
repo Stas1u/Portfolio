@@ -1,0 +1,30 @@
+{
+  "goal": 2500,
+  "containers": [
+    {
+      "name": "Puszka",
+      "ml": 200,
+      "uuid": "5d636639-09ce-4736-b140-ec1601549dee"
+    },
+    {
+      "name": "Puszka",
+      "ml": 500,
+      "uuid": "be6f15fe-88dd-40e6-b01a-72d21a84ea9d"
+    },
+    {
+      "name": "Butelka",
+      "ml": 500,
+      "uuid": "14d70476-6ed7-4f03-8aeb-d553d55c1341"
+    },
+    {
+      "name": "Butelka",
+      "ml": 700,
+      "uuid": "14d70476-6ed7-4f03-8aeb-d553d55c1341"
+    },
+    {
+      "name": "Butelka",
+      "ml": 1000,
+      "uuid": "14d70476-6ed7-4f03-8aeb-d553d55c1341"
+    }
+  ]
+}
